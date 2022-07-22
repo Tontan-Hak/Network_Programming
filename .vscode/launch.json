@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/teacher/HDSD/Network_Programming/Week 7/client.py",
+            "console": "integratedTerminal",
+            //"args":["server", "172.16.0.111"],
+            "args":["client", "172.16.2.78"],
+
+            "justMyCode": true
+        }
+    ]
+}

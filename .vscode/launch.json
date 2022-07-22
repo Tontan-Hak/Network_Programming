@@ -8,11 +8,9 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "C:/Users/teacher/HDSD/Network_Programming/Week 7/client.py",
+            "program": "C:/Users/teacher/HDSD/Network_Programming/Week 7/client1.py",
             "console": "integratedTerminal",
-            //"args":["server", "172.16.0.111"],
-            "args":["client", "172.16.2.78"],
-
+            "args": ["172.12.2.189","-p 1060"],
             "justMyCode": true
         }
     ]
